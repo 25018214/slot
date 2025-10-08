@@ -130,7 +130,7 @@ Execute the program using runserver command.
 </html>
 
 ## OUTPUT
-![alt text](akash/slotapp/statics/logo.png)
+![alt text](logo.png.jpg)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
