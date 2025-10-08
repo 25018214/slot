@@ -24,7 +24,6 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-'''
 <!DOCTYPE html>
 <html> 
 <head>
@@ -32,8 +31,8 @@ Execute the program using runserver command.
 </head>            
 <title>Google <div class="Timetable"></div></title>
     <body> 
-     <center>
-     <img src="/static/logo.png" height="150" width="800">
+     <center> 
+     <img src="/logo.png" height="150" width="800">
      </center>
       <h3 align="center">  SLOT TIME TABLE - STUDENT NAME ( ROLL NO. ) </h3>
         <table align="center" border="5" cellpadding="6" cellspacing="2" bgcolor="cyan">
@@ -129,10 +128,9 @@ Execute the program using runserver command.
          </table>   
     </body>
 </html>
-'''
 
 ## OUTPUT
-![alt text](<Screenshot 2025-10-08 082914.png>)
+![alt text](akash/slotapp/statics/logo.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
