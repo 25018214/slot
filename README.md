@@ -132,7 +132,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](logo.png.png)
+<img width="1920" height="1080" alt="logo png" src="https://github.com/user-attachments/assets/322a2dff-987f-4264-b06f-3e5ff6d8dc08" />
+
 
 
 ## RESULT
